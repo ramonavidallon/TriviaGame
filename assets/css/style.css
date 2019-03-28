@@ -1,0 +1,43 @@
+* {
+    background-image: url("../images/sonicsbackground.jpg");
+    background-attachment: fixed;
+    color: rgb(255, 204, 0);
+}
+
+.jumbotron {
+    background-color:rgb(24, 101, 24);
+    color: rgb(255, 204, 0);
+    text-align: center;
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    opacity: .75;
+}
+
+.jumbotron:hover {
+    opacity: 1.0;
+}
+
+.lead {
+    color: rgba(255, 0, 0, 0.584);
+    font-family: 'Boogaloo', cursive;
+    font-size: 30px;
+}
+
+
+button {
+    margin: 46%;
+    margin-top: 10px;
+}
+
+h1 {
+    color:  rgb(255, 204, 0);
+}
+
+h2 {
+    color: white;
+}
+
+#sonics {
+    color: rgba(255, 0, 0, 0.584);
+
+}
