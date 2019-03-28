@@ -71,7 +71,7 @@ $(document).ready(function () {
 
         //FUNCTION TO DETERMINE IF USER CHOSE CORRECT OR INCORRECT ANSWER//
             function done() {
-                $.each($("input[name='question-0']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[0].realAnswer) {
                       gamePlay.correct++;
                     }
@@ -79,7 +79,7 @@ $(document).ready(function () {
                       gamePlay.incorrect++;
                     }
                   });
-                $.each($("input[name='question-1']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[1].realAnswer) {
                       gamePlay.correct++;
                     }
@@ -87,7 +87,7 @@ $(document).ready(function () {
                       gamePlay.incorrect++;
                     }
                   });
-                $.each($("input[name='question-2']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[2].realAnswer) {
                       gamePlay.correct++;
                     }
@@ -95,7 +95,7 @@ $(document).ready(function () {
                       gamePlay.incorrect++;
                     }
                   });
-                $.each($("input[name='question-3']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[3].realAnswer) {
                       gamePlay.correct++;
                     }
@@ -103,7 +103,7 @@ $(document).ready(function () {
                       gamePlay.incorrect++;
                     }
                   });
-                $.each($("input[name='question-4']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[4].realAnswer) {
                       gamePlay.correct++;
                     }
@@ -111,7 +111,7 @@ $(document).ready(function () {
                       gamePlay.incorrect++;
                     }
                   });
-                $.each($("input[name='question-5']:checked"), function() {
+                $.each($("CHECKED"), function() {
                     if ($(this).val() === questions[5].realAnswer) {
                       gamePlay.correct++;
                     }
