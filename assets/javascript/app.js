@@ -7,11 +7,13 @@ $(document).ready(function() {
   var rightAnswers = 0;
   var wrongAnswers= 0;
   
-  //THE PAGE WILL LOAD THE START BUTTON BUT WILL HIDE THE TIME/THE QUESTIONS/THE SCOREBOARD//
+  //THE PAGE WILL LOAD THE START BUTTON BUT WILL HIDE THE TIME/THE QUESTIONS/THE SCOREBOARD/DONE-BUTTON//
   
   $('#timeClock').hide();
   $('.questions').hide();
   $('.scoreboard').hide();
+  $('#done-button').hide();
+
   
   //FUNCTION TO LOAD QUIZ//
   function revealGame() {

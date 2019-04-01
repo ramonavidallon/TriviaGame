@@ -44,5 +44,10 @@ h2 {
 }
 
 .answerChoices {
-    
+    position: relative;
+    padding-top: -400px;
+}
+
+.quizquestion {
+    position: static;
 }
