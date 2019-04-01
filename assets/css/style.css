@@ -23,16 +23,17 @@
     font-size: 30px;
 }
 
-
+/*START BUTTON*/
 button {
     margin: 46%;
     margin-top: 10px;
 }
-
+/*SHOT CLOCK*/
 h1 {
     color:  rgb(255, 204, 0);
 }
 
+/*QUESTIONS*/
 h2 {
     color: white;
 }
@@ -40,4 +41,8 @@ h2 {
 #sonics {
     color: rgba(255, 0, 0, 0.584);
 
+}
+
+.answerChoices {
+    
 }
