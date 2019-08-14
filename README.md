@@ -1,17 +1,28 @@
-In this repository I have created Trivia Game for the user to complete.
+<h1> Seattle Sports Trivia Game </h1>
 
-//RULES OF THE GAME (PLAY BY PLAY)//
-1. ONCE THE WINDOW LOADS THERE WILL BE A BUTTON ("LET'S BEGIN") THAT THE USER WILL USE TO BEGIN THE GAME.
-2. USER HAS 3MIN (180 SEC) TO COMPLETE ALL 6 QUESTIONS PROVIDED
-3. THE QUESTIONS WILL REVOLVE AROUND SEATTLE SPORTS QUESTIONS THAT WILL INCLUDE BASEBALL, FOOTBALL, AND BASKETBALL
-4. IF THE USER FAILS TO ANSWER ALL THE QUESTIONS BY THE TIME 3 MINUTES IS UP, IT WOULD BE AN AUTOMATIC FAIL, BUT I WILL SHOW THE USER WHICH QUESTIONS THEY MANAGED TO GET CORRECT.
-5. IF THEY USER SUCCESSFULLY ANSWERS ALL THE QUESTIONS REGARDLESS IF IT IS WRONG OR NOT, THE USER WILL BE DIRECTED TO A NEW WINDOW WHERE IT WILL DISPLAY THE AMOUNT OF RIGHT OR WRONG ANSWERS THE USER HAD.
-6. A "TRY AGAIN" <BUTTON> WOULD BE IMPLEMENTED TO GIVE THE OPTION TO THE USER IF THEY WOULD LIKE TO RETAKE THE QUIZ.
+<h2> Logic </h2>
+<ul>
+  <li> A multiple choice trivia game based on Seattle Sports History! </li>
+  <li> There is a built in timer that limits the amount of time the user has to complete the quiz </li>
+  <li> Once all the questions are answered by the user, the application then shows the user how many questions they got right or wrong </li>
+ </ul>
+ 
+ <h2> Deployed Link </h2>
+ 
+ <h3> https://ramonavidallon.github.io/TriviaGame/ </h3>
+ 
+ <h2> Technologies </h2>
+ <ul>
+  <li> Javascript </li>
+  <li> jQuery </li>
+  <li> HTML </li>
+  <li> CSS </li>
+  <li> Bootstrap </li>
+  <li> Google Fonts </li>
   
-With the tools of HTML, CSS, Javascript, JQuery, BootStrap, and Google Fonts; I was able to come up with a "Seattle Sports Themed" trivia game.
+  
+<br>
 
-ENJOYED: THE CSS AND STYLING OF THE WEBPAGE AS A WHOLE
 
-CHALLENGES: GETTING MY JAVASCRIPT TO EXECUTE CLEANLY AND FIRING ON ALL FUNCTIONS
+<img width="1127" alt="seattle_sports_trivia" src="https://user-images.githubusercontent.com/43662571/63061253-56694200-bea9-11e9-8bea-ce33b90269f2.png">
 
-I AM THE SOLE CONTRIBUTER TO THIS PROJECT.
