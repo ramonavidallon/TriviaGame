@@ -19,6 +19,7 @@
   <li> CSS </li>
   <li> Bootstrap </li>
   <li> Google Fonts </li>
+ </ul>
   
   
 <br>
